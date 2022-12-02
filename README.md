@@ -7,3 +7,6 @@ Para rodar esse projeto na sua máquina, por favor execute:
 ```
 npm install react
 ```
+```
+execute o arquivo .exe: teste_teste
+```
